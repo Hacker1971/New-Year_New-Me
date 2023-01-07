@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    margin-bottom: 50px;
+}
+.hero-image {
+    background-image: url("/images/banner/banner3.png");
+    height:100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .big{
+    color: #FFFFFF;
+    text-align: right;
+    font-weight: 700;
+    font-size: 65px;
+    padding-top: 216px;
+    padding-right: 230px;
+
+  }
+  .text{
+    color: #FFFFFF;
+    text-align: right;
+    padding-right: 230px;
+    margin-top: 24px;
+  }
+  .btn{
+    color: #005FAC;
+    background: #FFFFFF;
+    border-radius: 5px;
+    width: 160px;
+    height: 64px;
+    border: 0;
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 970px;
+    margin-top: 55px;
+  }

@@ -110,6 +110,56 @@ height: 723.3px;
   .skill-img{
     margin-left: 50px;
   }
+  .best-skill{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    margin-bottom: 130px;
+  }
+  .box{
+    width: 530px;
+    height: 380px;
+    background: radial-gradient(51.33% 49.78% at 49.47% 44.58%, #FDFDFD 0%, #FCE8E6 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 42px;
+    padding: 41px 110px;
+  }
+  .bar-site >h1{
+    color: #282828;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 36px;
+  }
+  .bar-site >p{
+    color: #282828;
+    font-size: 12px;
+    margin-bottom: 36px;
+  }
+  .chat{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+  }
+  .design >h3{
+    color: #282828;
+  }
+  .design > p{
+    color: #282828;
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;margin-top: 10px;
+  }
+  .resume{
+    color: #FF4C60;
+    margin-top: 60px;
+  }
+  .hr{
+    border: 2px solid #FF4C60;
+    width: 135px;
+    height: 0px;
+  }
   .zero{
     width: 1140px;
     height: 300px;

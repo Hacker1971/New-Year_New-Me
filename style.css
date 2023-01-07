@@ -141,7 +141,7 @@ height: 723.3px;
   }
   footer{
     background: #151414;
-    width: 900px;
+    width: 100vw;
     height: 250px;
     padding: 130px 230px;
     display: flex;
